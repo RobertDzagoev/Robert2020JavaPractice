@@ -1,16 +1,8 @@
-D.C.
-PA
-TX
-FL
-MD
-CA
-NE
-GA
-NY
-MA
-VA
-NJ
-AL
-CANADA its not a state, but will be here
-AZ
-KS
+Alabama.
+Alaska.
+Arizona.
+Arkansas.
+California.
+Colorado.
+Connecticut.
+Delaware.
